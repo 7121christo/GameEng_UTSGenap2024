@@ -24,7 +24,7 @@ KembaliKeMenu ();
 }
 public void MulaiPermainan ()
 {
-SceneManager.LoadScene ("Main");
+SceneManager.LoadScene ("SampleScene");
 }
 public void KembaliKeMenu ()
 {
